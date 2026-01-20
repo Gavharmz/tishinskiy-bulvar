@@ -12,7 +12,7 @@ This landing page was built to practice frontend layout skills:
 - layout positioning
 
 ## Live preview
-Will be added using GitHub Pages.
+[Tishinskiy Bulvar layout](https://gavharmz.github.io/tishinskiy-bulvar/)
 
 ## Author
 Gavhar Mominjonova
