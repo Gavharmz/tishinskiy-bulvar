@@ -4,7 +4,6 @@ Landing page for Tishinskiy Bulvar project
 ## technologies
 - HTML5
 - CSS3 / SCSS
-- JavaScript
 - Flexbox / Grid
 - BEM methodology
 
