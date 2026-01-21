@@ -3,13 +3,16 @@ Landing page for Tishinskiy Bulvar project
 
 ## technologies
 - HTML5
-- CSS3
+- CSS3 / SCSS
+- JavaScript
+- Flexbox / Grid
+- BEM methodology
 
-## Project description
-This landing page was built to practice frontend layout skills:
-- page structure
-- styling
-- layout positioning
+## Features
+- Pixel Perfect layout based on the design
+- Fully responsive across all devices
+- Semantic HTML markup
+- Smooth animations and hover effects
 
 ## Live preview
 [Tishinskiy Bulvar layout](https://gavharmz.github.io/tishinskiy-bulvar/)
